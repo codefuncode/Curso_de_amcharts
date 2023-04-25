@@ -1,0 +1,33 @@
+Getting started
+
+    Root element
+    Integrations
+
+Charts
+
+    XY chart
+    Pie and sliced charts
+    Radar chart
+    Map chart
+    Hierarchy charts
+    Flow charts
+    Word cloud
+    Venn diagram
+    Stock chart
+
+Concepts
+
+    Settings
+    Data
+    Legend
+    Colors, gradients, and patterns
+    Common elements
+    Formatters
+    Themes
+    Events
+    Locales
+    Responsive
+    Exporting
+    Accessibility
+    Animations
+
